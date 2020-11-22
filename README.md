@@ -24,6 +24,24 @@ These datasets were provided to me as a part of this project by the Flatiron Sch
 
 ![alt text](https://github.com/JanakiGanesh/Movie-Analysis/blob/master/images/genre_analysis.png)
 
+There are more Documentary movies with high ratings compared to other genres over the past years. This clearly shows that people like to watch Documentary movies.
+
+![alt text](https://github.com/JanakiGanesh/Movie-Analysis/blob/master/images/runtime_length.png)
+
+The analysis shows that the maximum movies have average runtime of around 90 minutes.
+
+![alt text](https://github.com/JanakiGanesh/Movie-Analysis/blob/master/images/top_30.png)
+
+The movie with average runtime having high ratings.
+
+
+![alt text](https://github.com/JanakiGanesh/Movie-Analysis/blob/master/images/least_30.png)
+
+The movie with average runtime having least customer ratings.Hence people have rated equally. This shows that the movie runtime have no imapct on the viewers.
+
+![alt text](https://github.com/JanakiGanesh/Movie-Analysis/blob/master/images/month_analysis.png)
+
+The analysis shows us that the movie released in the month of 'May' and 'June' have made high Domestic Revenue. This could be of any factors including holiday season,weather etc.Hence releasing movie at this season will make our movie successful.
 
 
 ## Reommendations
